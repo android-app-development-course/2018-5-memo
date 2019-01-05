@@ -74,13 +74,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        /*
-        if (ContextCompat.checkSelfPermission(this, Manifest.permission.READ_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 1);
-        } else {
-            initMemo();
-        }
-        */
         checkPermission();
         initMemo();
 
