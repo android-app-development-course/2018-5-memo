@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="floatButton">#355fc8</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="textBlack">#000000</color>
+    <color name="delRed">#ed3434</color>
+
+    <color name="light_grey">#999999</color>
+
+    <color name="lock_bg">#c3000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#fdff8e</color>
+    <color name="red">#f74a4a</color>
+    <color name="green">#00c254</color>
+    <color name="light_blue">#4595e6</color>
+    <color name="hide">#484848</color>
+    <color name="gray_bg">#f1f1ec</color>
+    <color name="orange">#fa7d53</color>
+
+    <color name="mulitem_bc">#f16599</color>
+
+</resources>

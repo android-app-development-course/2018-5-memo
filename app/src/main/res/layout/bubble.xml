@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="16dp"
+        android:text=""/>
+    <com.xw.repo.BubbleSeekBar
+        android:id="@+id/seek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:bsb_auto_adjust_section_mark="true"
+        app:bsb_hide_bubble="true"
+        app:bsb_second_track_size="4dp"
+        app:bsb_track_size="4dp"
+        app:bsb_thumb_radius="6dp"
+        app:bsb_max="5"
+        app:bsb_min="1"
+        app:bsb_progress="3"
+        app:bsb_second_track_color="@color/colorAccent"
+        app:bsb_section_count="4"
+        app:bsb_thumb_color="@color/colorAccent"
+        app:bsb_section_text_position="below_section_mark"
+        app:bsb_show_progress_in_float="false"
+        app:bsb_show_section_mark="true"
+        app:bsb_show_section_text="true"
+        app:bsb_show_thumb_text="false"
+        app:bsb_track_color="@color/colorAccent"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:text=""/>
+</LinearLayout>
