@@ -11,5 +11,4 @@
 左/右滑动便签可进行删除操作。   
 ## 应用截图
 
-<image src="./系统文档/picture/main.jpg" width="350px"/>             <image src="./系统文档/picture/main_p.jpg" width="350px"/>  
-<image src="./系统文档/picture/edit.jpg" width="350px"/>             <image src="./系统文档/picture/password.jpg" width="350px"/>
+<image src="./系统文档/picture/main.jpg" width="200px"/>     <image src="./系统文档/picture/main_p.jpg" width="200px"/>     <image src="./系统文档/picture/edit.jpg" width="200px"/>     <image src="./系统文档/picture/password.jpg" width="200px"/>
